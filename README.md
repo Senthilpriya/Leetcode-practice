@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0066-plus-one) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Stack
