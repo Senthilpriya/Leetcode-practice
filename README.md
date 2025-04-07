@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0118-pascals-triangle) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0046-permutations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
