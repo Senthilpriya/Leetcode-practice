@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2998-count-symmetric-integers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3243-count-the-number-of-powerful-integers) |
