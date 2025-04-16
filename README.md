@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
