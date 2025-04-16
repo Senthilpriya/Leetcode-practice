@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0213-house-robber-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
