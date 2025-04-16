@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2442-number-of-arithmetic-triplets) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3548-find-the-count-of-good-integers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
