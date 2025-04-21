@@ -10,6 +10,19 @@ class Solution {
     //         arr.add(entry.getKey());
     //     }
     //    }  
+    
+    // int ind=0;
+    // while(k!=0){
+    //     int max=0;
+    //     int val=0;
+    //     for(int i:map.keySet()){
+    //         if(map.get(i)>max){
+    //             max=map.get(i);
+    //             val=i;
+    //         }
+    //     }
+    //     arr
+    // }
      Collections.sort(arr, (a, b) -> map.get(b) - map.get(a));     
        int arr1[]=new int[k];
        for(int i=0;i<k;i++){
