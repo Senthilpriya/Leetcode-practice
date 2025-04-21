@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [1256-rank-transform-of-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2681-put-marbles-in-bags) |
 ## Two Pointers
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -284,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -305,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
