@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2159-two-out-of-three](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
