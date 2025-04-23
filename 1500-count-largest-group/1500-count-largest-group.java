@@ -10,7 +10,6 @@ class Solution {
             num/=10;
         }
         map.put(sum,map.getOrDefault(sum,0)+1);
-
     }
     int count=0;
     int max=0;
