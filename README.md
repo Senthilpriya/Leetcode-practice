@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2048-build-array-from-permutation) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2155-find-missing-observations](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2155-find-missing-observations) |
 | [2159-two-out-of-three](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2159-two-out-of-three) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2048-build-array-from-permutation) |
 | [2155-find-missing-observations](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2155-find-missing-observations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2324-find-triangular-sum-of-an-array) |
