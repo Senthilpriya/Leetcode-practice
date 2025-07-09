@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0466-count-the-repetitions](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0466-count-the-repetitions) |
+| [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
 | [0806-domino-and-tromino-tiling](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0868-push-dominoes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0466-count-the-repetitions](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0466-count-the-repetitions) |
+| [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0868-push-dominoes) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -431,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Trie
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
