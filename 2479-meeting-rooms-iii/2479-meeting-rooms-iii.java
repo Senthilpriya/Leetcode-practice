@@ -1,7 +1,7 @@
 class Solution {
     public int mostBooked(int n, int[][] meetings) {
-        int[] count = new int[n];       // Count of meetings per room
-        long[] busy = new long[n];      // When each room becomes free
+        int[] count = new int[n];      
+        long[] busy = new long[n];     
 
         Arrays.sort(meetings, (a, b) -> a[0] - b[0]);
 
