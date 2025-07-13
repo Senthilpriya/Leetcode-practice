@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
