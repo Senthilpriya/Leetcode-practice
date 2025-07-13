@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0213-house-robber-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0242-valid-anagram) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0010-regular-expression-matching) |
 | [0273-integer-to-english-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2050-count-good-numbers) |
