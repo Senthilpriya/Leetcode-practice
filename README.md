@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0839-short-encoding-of-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0839-short-encoding-of-words) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0466-count-the-repetitions](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0806-domino-and-tromino-tiling](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0868-push-dominoes) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0466-count-the-repetitions) |
 | [0468-validate-ip-address](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0556-next-greater-element-iii) |
 | [0726-number-of-atoms](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
