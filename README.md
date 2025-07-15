@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0066-plus-one) |
 | [0273-integer-to-english-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
+| [0504-base-7](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0556-next-greater-element-iii) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0474-ones-and-zeroes) |
+| [0504-base-7](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0556-next-greater-element-iii) |
 | [0726-number-of-atoms](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0726-number-of-atoms) |
