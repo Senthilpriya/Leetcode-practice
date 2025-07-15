@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0474-ones-and-zeroes) |
+| [0520-detect-capital](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0556-next-greater-element-iii) |
 | [0726-number-of-atoms](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
