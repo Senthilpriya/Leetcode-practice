@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0839-short-encoding-of-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0839-short-encoding-of-words) |
 | [0868-push-dominoes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0868-push-dominoes) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
 | [0839-short-encoding-of-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0839-short-encoding-of-words) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Memoization
 |  |
 | ------- |
