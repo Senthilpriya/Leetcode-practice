@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0066-plus-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0504-base-7](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0504-base-7) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0466-count-the-repetitions](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0466-count-the-repetitions) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0097-interleaving-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0316-remove-duplicate-letters) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0010-regular-expression-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2050-count-good-numbers) |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Linked List
 |  |
