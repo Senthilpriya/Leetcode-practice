@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2479-meeting-rooms-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2159-two-out-of-three) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Combinatorics
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
