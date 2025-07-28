@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
+| [0912-random-pick-with-weight](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0912-random-pick-with-weight) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1500-count-largest-group) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0839-short-encoding-of-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0839-short-encoding-of-words) |
 | [0878-shifting-letters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0878-shifting-letters) |
+| [0912-random-pick-with-weight](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0912-random-pick-with-weight) |
 | [0952-word-subsets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0952-word-subsets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0912-random-pick-with-weight](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0912-random-pick-with-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0878-shifting-letters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0878-shifting-letters) |
+| [0912-random-pick-with-weight](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0912-random-pick-with-weight) |
 | [2249-count-the-hidden-sequences](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2915-count-of-interesting-subarrays) |
@@ -629,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1258-article-views-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1258-article-views-i) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
