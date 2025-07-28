@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0609-find-duplicate-file-in-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0609-find-duplicate-file-in-system) |
+| [0649-dota2-senate](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0649-dota2-senate) |
 | [0676-implement-magic-dictionary](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0676-implement-magic-dictionary) |
 | [0726-number-of-atoms](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0649-dota2-senate) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Bucket Sort
