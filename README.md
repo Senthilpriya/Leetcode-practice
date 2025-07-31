@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1656-count-good-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1500-count-largest-group) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1813-maximum-erasure-value](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2262-solving-questions-with-brainpower) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-random-pick-with-weight](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0912-random-pick-with-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1813-maximum-erasure-value](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
