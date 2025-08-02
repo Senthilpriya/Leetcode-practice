@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0690-employee-importance) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0839-short-encoding-of-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0839-short-encoding-of-words) |
+| [0842-card-flipping-game](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0842-card-flipping-game) |
 | [0878-shifting-letters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0878-shifting-letters) |
 | [0912-random-pick-with-weight](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0912-random-pick-with-weight) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0839-short-encoding-of-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0839-short-encoding-of-words) |
+| [0842-card-flipping-game](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0842-card-flipping-game) |
 | [0952-word-subsets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
