@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0498-diagonal-traverse) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
