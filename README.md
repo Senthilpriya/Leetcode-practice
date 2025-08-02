@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2479-meeting-rooms-iii) |
