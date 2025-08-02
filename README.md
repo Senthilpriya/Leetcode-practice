@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0554-brick-wall](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0554-brick-wall) |
 | [0609-find-duplicate-file-in-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0609-find-duplicate-file-in-system) |
+| [0690-employee-importance](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0690-employee-importance) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0839-short-encoding-of-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0839-short-encoding-of-words) |
 | [0878-shifting-letters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0878-shifting-letters) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0554-brick-wall) |
 | [0609-find-duplicate-file-in-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0609-find-duplicate-file-in-system) |
 | [0676-implement-magic-dictionary](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0676-implement-magic-dictionary) |
+| [0690-employee-importance](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0690-employee-importance) |
 | [0726-number-of-atoms](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0690-employee-importance](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0690-employee-importance) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
 | [0676-implement-magic-dictionary](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0676-implement-magic-dictionary) |
+| [0690-employee-importance](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0690-employee-importance) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0399-evaluate-division) |
+| [0690-employee-importance](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0690-employee-importance) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Tree
