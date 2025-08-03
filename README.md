@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0046-permutations) |
 | [0834-ambiguous-coordinates](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0834-ambiguous-coordinates) |
 | [1160-letter-tile-possibilities](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
+| [1211-iterator-for-combination](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1211-iterator-for-combination) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1211-iterator-for-combination](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1211-iterator-for-combination) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0676-implement-magic-dictionary](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0676-implement-magic-dictionary) |
+| [1211-iterator-for-combination](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1211-iterator-for-combination) |
 ## Graph
 |  |
 | ------- |
@@ -710,4 +713,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Iterator
+|  |
+| ------- |
+| [1211-iterator-for-combination](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1211-iterator-for-combination) |
 <!---LeetCode Topics End-->
