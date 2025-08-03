@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1026-string-without-aaa-or-bbb) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-string-without-aaa-or-bbb](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1026-string-without-aaa-or-bbb) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0886-score-of-parentheses) |
 | [0916-decoded-string-at-index](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0916-decoded-string-at-index) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0402-remove-k-digits) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
