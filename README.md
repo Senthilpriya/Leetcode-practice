@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0399-evaluate-division) |
+| [0406-queue-reconstruction-by-height](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
+| [0406-queue-reconstruction-by-height](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -647,10 +649,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
