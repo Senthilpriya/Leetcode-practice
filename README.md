@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0498-diagonal-traverse) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0406-queue-reconstruction-by-height](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0475-heaters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0726-number-of-atoms](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0726-number-of-atoms) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0475-heaters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0475-heaters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0475-heaters) |
 | [0912-random-pick-with-weight](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0912-random-pick-with-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
