@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0952-word-subsets) |
 | [0985-bag-of-tokens](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0985-bag-of-tokens) |
+| [1002-maximum-width-ramp](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1009-pancake-sorting) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0868-push-dominoes) |
 | [0941-sort-array-by-parity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0985-bag-of-tokens) |
+| [1002-maximum-width-ramp](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1009-pancake-sorting) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0886-score-of-parentheses) |
 | [0916-decoded-string-at-index](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0916-decoded-string-at-index) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0402-remove-k-digits) |
+| [1002-maximum-width-ramp](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
