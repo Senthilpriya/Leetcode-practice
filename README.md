@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0952-word-subsets) |
+| [0985-bag-of-tokens](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1009-pancake-sorting) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0726-number-of-atoms](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0726-number-of-atoms) |
 | [0941-sort-array-by-parity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
+| [0985-bag-of-tokens](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1009-pancake-sorting) |
 | [1256-rank-transform-of-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1308-smallest-string-with-swaps) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0985-bag-of-tokens](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1009-pancake-sorting) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1026-string-without-aaa-or-bbb) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0868-push-dominoes) |
 | [0941-sort-array-by-parity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
+| [0985-bag-of-tokens](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1009-pancake-sorting) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
