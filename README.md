@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1009-pancake-sorting) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
