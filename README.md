@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1923-sentence-similarity-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1923-sentence-similarity-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1923-sentence-similarity-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1009-pancake-sorting) |
+| [1923-sentence-similarity-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
