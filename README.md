@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2232-adding-spaces-to-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2232-adding-spaces-to-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2391-strong-password-checker-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2391-strong-password-checker-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [2048-build-array-from-permutation](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2048-build-array-from-permutation) |
 | [2155-find-missing-observations](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2479-meeting-rooms-iii) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1009-pancake-sorting) |
 | [1923-sentence-similarity-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
