@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0912-random-pick-with-weight) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0834-ambiguous-coordinates](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0834-ambiguous-coordinates) |
+| [0900-reordered-power-of-2](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0839-short-encoding-of-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0839-short-encoding-of-words) |
 | [0842-card-flipping-game](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0842-card-flipping-game) |
+| [0900-reordered-power-of-2](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0658-find-k-closest-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0726-number-of-atoms](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0726-number-of-atoms) |
+| [0900-reordered-power-of-2](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1009-pancake-sorting) |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
