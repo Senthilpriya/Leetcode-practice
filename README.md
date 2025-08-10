@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0466-count-the-repetitions](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0472-concatenated-words) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0388-longest-absolute-file-path) |
+| [0392-is-subsequence](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0399-evaluate-division) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
