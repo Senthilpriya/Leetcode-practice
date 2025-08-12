@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0554-brick-wall](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0554-brick-wall) |
+| [0567-permutation-in-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0609-find-duplicate-file-in-system) |
 | [0676-implement-magic-dictionary](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0690-employee-importance) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0556-next-greater-element-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0609-find-duplicate-file-in-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0609-find-duplicate-file-in-system) |
 | [0647-palindromic-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0647-palindromic-substrings) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0556-next-greater-element-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0940-fruit-into-baskets) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
