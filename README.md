@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0477-total-hamming-distance](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0504-base-7) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0010-regular-expression-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
