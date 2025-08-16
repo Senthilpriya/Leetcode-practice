@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0912-random-pick-with-weight) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2050-count-good-numbers) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1448-maximum-69-number](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1448-maximum-69-number) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
