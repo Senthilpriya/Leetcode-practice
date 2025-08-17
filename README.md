@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0912-random-pick-with-weight) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0806-domino-and-tromino-tiling](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0867-new-21-game](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1020-longest-turbulent-subarray) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1321-get-equal-substrings-within-budget) |
@@ -855,4 +858,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
