@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0592-fraction-addition-and-subtraction) |
+| [0679-24-game](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0867-new-21-game) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0554-brick-wall) |
 | [0609-find-duplicate-file-in-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0609-find-duplicate-file-in-system) |
 | [0658-find-k-closest-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0658-find-k-closest-elements) |
+| [0679-24-game](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0679-24-game) |
 | [0690-employee-importance](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0690-employee-importance) |
 | [0713-subarray-product-less-than-k](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0046-permutations) |
+| [0679-24-game](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0679-24-game) |
 | [0834-ambiguous-coordinates](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0834-ambiguous-coordinates) |
 | [1160-letter-tile-possibilities](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 | [1211-iterator-for-combination](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1211-iterator-for-combination) |
