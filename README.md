@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0839-short-encoding-of-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0839-short-encoding-of-words) |
 | [0842-card-flipping-game](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0842-card-flipping-game) |
+| [0853-most-profit-assigning-work](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0878-shifting-letters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0878-shifting-letters) |
 | [0912-random-pick-with-weight](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0912-random-pick-with-weight) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0658-find-k-closest-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0726-number-of-atoms](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0726-number-of-atoms) |
+| [0853-most-profit-assigning-work](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0900-reordered-power-of-2](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0959-3sum-with-multiplicity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0959-3sum-with-multiplicity) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
+| [0853-most-profit-assigning-work](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1009-pancake-sorting) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
+| [0853-most-profit-assigning-work](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0868-push-dominoes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0868-push-dominoes) |
 | [0941-sort-array-by-parity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0959-3sum-with-multiplicity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0959-3sum-with-multiplicity) |
@@ -634,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0853-most-profit-assigning-work](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0912-random-pick-with-weight](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0912-random-pick-with-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1321-get-equal-substrings-within-budget) |
