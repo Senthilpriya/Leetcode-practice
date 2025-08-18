@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1985-maximum-subarray-min-product](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1985-maximum-subarray-min-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2027-maximum-number-of-removable-characters) |
 | [2048-build-array-from-permutation](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2027-maximum-number-of-removable-characters) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1009-pancake-sorting) |
 | [1923-sentence-similarity-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1923-sentence-similarity-iii) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2027-maximum-number-of-removable-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2027-maximum-number-of-removable-characters) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
