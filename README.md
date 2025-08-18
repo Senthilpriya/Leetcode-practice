@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0878-shifting-letters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0878-shifting-letters) |
 | [0912-random-pick-with-weight](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0912-random-pick-with-weight) |
+| [0917-boats-to-save-people](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0726-number-of-atoms) |
 | [0853-most-profit-assigning-work](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0900-reordered-power-of-2](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
+| [0917-boats-to-save-people](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0959-3sum-with-multiplicity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0959-3sum-with-multiplicity) |
 | [0985-bag-of-tokens](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0985-bag-of-tokens) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0853-most-profit-assigning-work) |
+| [0917-boats-to-save-people](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1009-pancake-sorting) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0868-push-dominoes](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0868-push-dominoes) |
+| [0917-boats-to-save-people](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0959-3sum-with-multiplicity](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0959-3sum-with-multiplicity) |
 | [0985-bag-of-tokens](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0985-bag-of-tokens) |
