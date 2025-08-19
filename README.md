@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3791-fruits-into-baskets-iii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [3975-xor-after-range-multiplication-queries-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Backtracking
 |  |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [3975-xor-after-range-multiplication-queries-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
