@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1020-longest-turbulent-subarray](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1020-longest-turbulent-subarray) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0498-diagonal-traverse) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
