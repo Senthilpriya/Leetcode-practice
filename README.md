@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3791-fruits-into-baskets-iii) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
@@ -674,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3791-fruits-into-baskets-iii) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
 | ------- |
