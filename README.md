@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3791-fruits-into-baskets-iii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3973-flip-square-submatrix-vertically) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3973-flip-square-submatrix-vertically) |
 ## Stack
 |  |
 | ------- |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3973-flip-square-submatrix-vertically) |
 ## Design
 |  |
 | ------- |
