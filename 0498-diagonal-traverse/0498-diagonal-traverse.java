@@ -1,36 +1,25 @@
-class Solution {
-    public int[] findDiagonalOrder(int[][] mat) {
-        int m = mat.length;
-        int n = mat[0].length;
-        int[] res = new int[m * n];
-        
-        int idx = 0;
-        
-        for (int d = 0; d < m + n - 1; d++) {
-            int row, col;
-            
-            if (d % 2 == 0) {
-                // Up-right direction
-                row = (d < m) ? d : m - 1;
-                col = d - row;
-                
-                while (row >= 0 && col < n) {
-                    res[idx++] = mat[row][col];
-                    row--;
-                    col++;
-                }
+public class Solution {
+    public int[] findDiagonalOrder(int[][] matrix) {
+        if (matrix == null || matrix.length == 0) return new int[0];
+
+        int m = matrix.length, n = matrix[0].length;
+        int[] result = new int[m * n];
+        int row = 0, col = 0;
+
+        for (int i = 0; i < m * n; i++) {
+            result[i] = matrix[row][col];
+
+            if ((row + col) % 2 == 0) {
+                if (col == n - 1) row++;
+                else if (row == 0) col++;
+                else { row--; col++; }
             } else {
-                // Down-left direction
-                col = (d < n) ? d : n - 1;
-                row = d - col;
-                
-                while (col >= 0 && row < m) {
-                    res[idx++] = mat[row][col];
-                    row++;
-                    col--;
-                }
+                if (row == m - 1) col++;
+                else if (col == 0) row++;
+                else { row++; col--; }
             }
         }
-        return res;
+
+        return result;
     }
 }
