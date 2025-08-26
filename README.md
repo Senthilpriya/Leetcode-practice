@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3430-count-days-without-meetings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3430-count-days-without-meetings) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
