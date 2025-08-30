@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0049-group-anagrams) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0229-majority-element-ii) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0221-maximal-square](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
