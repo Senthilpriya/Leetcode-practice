@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Combinatorics
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2442-number-of-arithmetic-triplets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2998-count-symmetric-integers) |
 | [3210-count-beautiful-substrings-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3210-count-beautiful-substrings-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Iterator
 |  |
 | ------- |
