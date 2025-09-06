@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3637-count-number-of-balanced-permutations) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3830-find-closest-person) |
 ## Array
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2529-range-product-queries-of-powers) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Combinatorics
 |  |
 | ------- |
