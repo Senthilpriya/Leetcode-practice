@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3738-make-array-non-decreasing](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3738-make-array-non-decreasing) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2689-rearranging-fruits) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3738-make-array-non-decreasing](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3738-make-array-non-decreasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-sum-of-total-strength-of-wizards](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3114-beautiful-towers-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3114-beautiful-towers-i) |
+| [3738-make-array-non-decreasing](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3738-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-sum-of-total-strength-of-wizards](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3114-beautiful-towers-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3114-beautiful-towers-i) |
+| [3738-make-array-non-decreasing](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3738-make-array-non-decreasing) |
 ## Number Theory
 |  |
 | ------- |
