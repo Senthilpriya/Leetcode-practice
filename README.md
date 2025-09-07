@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
+| [3114-beautiful-towers-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3114-beautiful-towers-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
+| [3114-beautiful-towers-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3114-beautiful-towers-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-maximum-subarray-min-product](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1985-maximum-subarray-min-product) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
+| [3114-beautiful-towers-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3114-beautiful-towers-i) |
 ## Number Theory
 |  |
 | ------- |
