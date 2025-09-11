@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1873-longest-nice-substring](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2159-two-out-of-three) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1813-maximum-erasure-value](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1873-longest-nice-substring](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1873-longest-nice-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1873-longest-nice-substring](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1873-longest-nice-substring) |
 | [1923-sentence-similarity-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
+| [1873-longest-nice-substring](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1873-longest-nice-substring) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -867,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1873-longest-nice-substring](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1873-longest-nice-substring) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3975-xor-after-range-multiplication-queries-ii) |
