@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2479-meeting-rooms-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2479-meeting-rooms-iii) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2429-design-a-food-rating-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2429-design-a-food-rating-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2479-meeting-rooms-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2479-meeting-rooms-iii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2391-strong-password-checker-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2391-strong-password-checker-ii) |
+| [2429-design-a-food-rating-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3210-count-beautiful-substrings-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3210-count-beautiful-substrings-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -838,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0676-implement-magic-dictionary](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0676-implement-magic-dictionary) |
 | [1211-iterator-for-combination](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1211-iterator-for-combination) |
+| [2429-design-a-food-rating-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2429-design-a-food-rating-system) |
 ## Graph
 |  |
 | ------- |
@@ -917,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Queue
