@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0066-plus-one) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0326-power-of-three) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0049-group-anagrams) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0242-valid-anagram) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0097-interleaving-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0165-compare-version-numbers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0273-integer-to-english-words) |
