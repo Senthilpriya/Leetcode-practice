@@ -1,13 +1,16 @@
 class Solution {
+
     public int triangularSum(int[] nums) {
-        int n=nums.length;
-        int sum=0;
-        while(n>1){
-            for(int i=0;i<n-1;i++){
-            nums[i]= (nums[i]+nums[i+1])%10;
-           }
-            n--;
+        List<Integer> current = Arrays.stream(nums)
+            .boxed()
+            .collect(Collectors.toList());
+        while (current.size() > 1) {
+            List<Integer> newNums = new ArrayList<>();
+            for (int i = 0; i < current.size() - 1; ++i) {
+                newNums.add((current.get(i) + current.get(i + 1)) % 10);
+            }
+            current = newNums;
         }
-        return nums[0];
+        return current.get(0);
     }
 }
