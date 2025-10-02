@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3336-water-bottles-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Sorting
