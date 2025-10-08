@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1500-count-largest-group) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1612-avoid-flood-in-the-city](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1873-longest-nice-substring](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1873-longest-nice-substring) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1448-maximum-69-number) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1612-avoid-flood-in-the-city](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/Senthilpriya/Leetcode-practice/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1612-avoid-flood-in-the-city](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Senthilpriya/Leetcode-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2027-maximum-number-of-removable-characters) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
