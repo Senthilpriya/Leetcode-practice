@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3827-implement-router) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3336-water-bottles-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2915-count-of-interesting-subarrays) |
 | [3210-count-beautiful-substrings-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3210-count-beautiful-substrings-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Union Find
 |  |
