@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3430-count-days-without-meetings) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2915-count-of-interesting-subarrays) |
 | [3210-count-beautiful-substrings-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3210-count-beautiful-substrings-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
