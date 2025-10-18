@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3430-count-days-without-meetings](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Senthilpriya/Leetcode-practice/tree/master/2689-rearranging-fruits) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3738-make-array-non-decreasing](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3738-make-array-non-decreasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Senthilpriya/Leetcode-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
